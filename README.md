@@ -1,5 +1,5 @@
-# 響應式網頁設計 [Asriel0727.github.io](https://asriel0727.github.io/)
-主題:食物語首遊相關介紹   
+# 響應式網頁設計
+主題:[食物語首遊相關介紹](https://asriel0727.github.io/)    
 藉由運用HTML, CSS以及少量JavaScript來做出類似官方網頁的內容  
 ## 內部分為
 1.首頁-基本玩法以及角色人物介紹  
